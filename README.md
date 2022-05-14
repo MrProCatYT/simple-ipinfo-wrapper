@@ -1,7 +1,7 @@
 # simple-ipinfo-wrapper
 Simple wrapper for ipinfo.io
 ## Installation
-To install, you'll need python 3 and pip.
+To install, you'll need python 3 and pip
 
 ```pip install simple-ipinfo-wrapper```
 ## Code example
